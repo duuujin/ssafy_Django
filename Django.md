@@ -1,3 +1,6 @@
+# 금일 중요 핵심
+![alt text](image.png)
+
 # Django 설치
 - pip install Django
 # Django 프로젝트 생성
