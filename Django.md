@@ -1,5 +1,7 @@
 # 금일 중요 핵심
 ![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 
 # Django 설치
 - pip install Django
